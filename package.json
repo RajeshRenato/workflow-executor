@@ -1,0 +1,20 @@
+{
+  "name": "workflow-executor",
+  "version": "1.0.0",
+  "description": "A flexible and powerful workflow engine for automating complex processes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "workflow",
+    "automation",
+    "engine",
+    "process"
+  ],
+  "author": "Rajesh Renato",
+  "license": "MIT",
+  "dependencies": {
+    "trywrap": "^1.0.0"
+  }
+}
