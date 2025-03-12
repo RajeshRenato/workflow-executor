@@ -13,6 +13,10 @@
     "process"
   ],
   "author": "Rajesh Renato",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RajeshRenato/workflow-executor.git"
+  },
   "license": "MIT",
   "dependencies": {
     "trywrap": "^1.0.0"
