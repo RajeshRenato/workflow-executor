@@ -10,7 +10,12 @@
     "workflow",
     "automation",
     "engine",
-    "process"
+    "process",
+    "orchestration",
+    "task management",
+    "state machine",
+    "nodejs",
+    "decision tree"
   ],
   "author": "Rajesh Renato",
   "repository": {
