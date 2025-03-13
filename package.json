@@ -1,6 +1,6 @@
 {
   "name": "workflow-executor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A flexible and powerful workflow engine for automating complex processes.",
   "main": "index.js",
   "scripts": {
